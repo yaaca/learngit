@@ -1,0 +1,1 @@
+This is teacher Liao Xuefeng's note for learning GIt
